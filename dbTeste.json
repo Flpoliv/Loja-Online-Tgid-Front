@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Camiseta Básica",
+      "descricao": "Camiseta 100% algodão",
+      "preco": 59.9,
+      "imagem": "camiseta.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Tênis Esportivo",
+      "descricao": "Ideal para corrida",
+      "preco": 129.9,
+      "imagem": "tenis.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Calça Jeans",
+      "descricao": "Estilo moderno com ótimo caimento",
+      "preco": 89.9,
+      "imagem": "calca.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Relógio Digital",
+      "descricao": "Com cronômetro e resistência à água",
+      "preco": 199.9,
+      "imagem": "relogio.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Mochila Escolar",
+      "descricao": "Compartimento para notebook e livros",
+      "preco": 99.9,
+      "imagem": "mochila.jpg"
+    }
+  ]
+}
