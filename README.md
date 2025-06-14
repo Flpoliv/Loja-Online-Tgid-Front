@@ -34,7 +34,7 @@ Projeto de loja virtual desenvolvido como parte de um **teste técnico** para va
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/loja-online-teste.git
+git clone https://github.com/Flpoliv/Loja-Online-Tgid-Front
 cd loja-app
 
 # 2. Instale as dependências
@@ -58,7 +58,7 @@ Em outro terminal:
 npm start
 ```
 
-Acesse: [http://localhost:5173](http://localhost:5173)
+Acesse: [http://localhost:3000/login](http://localhost:3001/produtos)
 
 ---
 
@@ -74,13 +74,6 @@ Acesse: [http://localhost:5173](http://localhost:5173)
 
 ## 👨‍💻 Desenvolvido por
 
-**\[Seu Nome Aqui]**
-[🔗 LinkedIn](https://linkedin.com/in/seu-usuario) • [💻 GitHub](https://github.com/seu-usuario)
+**\[Felipe de Oliveira]**
+[🔗 LinkedIn](www.linkedin.com/in/felipe-oliveira-flp) • [💻 GitHub](https://github.com/Flpoliv)
 
----
-
-## 📸 Preview
-
-<img src="https://via.placeholder.com/800x400" alt="Preview do app" />
-
----
